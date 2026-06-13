@@ -57,18 +57,26 @@ Me chamo James, tenho 29 anos e sou natural de Campos dos Goytacazes. Concluí o
 ### 📊 Estatísticas
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuJames13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="James Github Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuJames13&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-weld-kappa-45.vercel.app/api?username=EuJames13&locale=pt-br&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="James Github Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-weld-kappa-45.vercel.app/api/top-langs/?username=EuJames13&locale=pt-br&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <br/>
 
-[![Ashutosh' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuJames13&bg_color=000000&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh' github activity graph](https://github-readme-activity-graph-lake-sigma.vercel.app/graph?username=EuJames13&bg_color=000000&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/EuJames13/github-readme-activity-graph)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EuJames13/EuJames13/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EuJames13/EuJames13/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EuJames13/EuJames13/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EuJames13/EuJames13/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EuJames13/EuJames13/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EuJames13/EuJames13/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
